@@ -92,15 +92,15 @@ the differences between the approaches need to be investigated in detail.
 #         Collection_Name: AU-1-borehole 
 #         Data contact: Jim Cull (AU)
 #         Date of measurement (year): 1969.61
-#         Estimated prior steady state GST (°C): 28.87
+#         Estimated prior steady state GST (ï¿½C): 28.87
 #         Estimated mean conductivity (W/m/K): 3.7599
 #         Estimated mean thermal gradient (K/km): 16.27
 #         Notes: 
 #------------------ 
 # Reconstruction_Temperature: 
-#         Pre-1500 baseline GST (°C): 27.975
+#         Pre-1500 baseline GST (ï¿½C): 27.975
 # 
-# Date_Century        Estimated_GST_Change(°C)        Notes 
+# Date_Century        Estimated_GST_Change(ï¿½C)        Notes 
 # 16th                     0.237
 # 17th                     0.301
 # 18th                     0.375

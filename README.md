@@ -11,9 +11,8 @@ Antes de 1800, el registro de temperatura instrumental sobre la Tierra era relat
 ```
 1. Descargar diferectamente en formato .zip.
 2. En el terminar escribir: git clone nagoremeabe/TFG (hace falta tener descargado git)
-
 ```
-### Hacer que funcione
+### Hacer que Funcione
 
 ```
 conda env export > environment.yml

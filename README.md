@@ -15,7 +15,7 @@ conda env create -f environment.yml
 conda activate venv
 ```
 
-## Ruta archivos
+## Ruta Archivos
 
 Los programas de Australia están en:   
 australia\programas\  
@@ -26,7 +26,7 @@ chile\programas\
 La prueba hecha con datos sintéticos esta en:  
 synthetic_data\programas\
 
-## Datos
+## Ruta Datos
 Los datos de Australia están en:   
 australia\boreholes\raw\  
   

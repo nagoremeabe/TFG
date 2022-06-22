@@ -7,7 +7,13 @@ Antes de 1800, el registro de temperatura instrumental sobre la Tierra era relat
 
 ## Instrucciones
 
+### Descargar el Código
+```
+1. Descargar diferectamente en formato .zip.
+2. En el terminar escribir: git clone nagoremeabe/TFG (hace falta tener descargado git)
 
+```
+### Hacer que funcione
 
 ```
 conda env export > environment.yml
@@ -17,18 +23,21 @@ conda activate venv
 
 ## Ruta Archivos
 
-Los programas de Australia están en:   
+- Los programas de Australia están en:   
 australia\programas\  
 
-Los programas de Chile están en:   
+- Los programas de Chile están en:   
 chile\programas\   
 
-La prueba hecha con datos sintéticos esta en:  
+- La prueba hecha con datos sintéticos esta en:  
 synthetic_data\programas\
 
 ## Ruta Datos
-Los datos de Australia están en:   
+- Los datos de Australia están en:   
 australia\boreholes\raw\  
   
-Los datos de Chile están en:   
-chile\boreholes
+- Los datos de Chile están en:   
+chile\boreholes  
+
+- Los datos registrados de temperaturas en el aire están en:
+chile\datos_aire\
